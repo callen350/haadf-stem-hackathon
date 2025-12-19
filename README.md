@@ -1,5 +1,7 @@
 # HAADF-STEM Hackathon: Defect Classification in 2D Materials
 
+## Note to Hackathon organizers: The code for our analysis and figures is in the notebooks folder. The atom_gui.py script can be run to test the deep learning pipeline on the included dm3 file.
+
 ## Motivation
 
 This project addresses the challenge of defect classification for 2D material STEM datasets. Identifying and classifying defects in scanning transmission electron microscopy (STEM) images is crucial for understanding material properties and improving manufacturing processes. By developing automated machine learning solutions, we can accelerate the analysis of these complex datasets and provide more consistent, reliable defect characterization.
